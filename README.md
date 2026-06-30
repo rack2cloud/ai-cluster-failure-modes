@@ -252,5 +252,4 @@ This repository is maintained against the Rack2Cloud [Canonical Architecture Spe
 
 If this framework improved your cluster reliability modeling or helped you identify a bottleneck, please star the repository. 
 
-*Last updated: 06-30-2026*
-*Maintained by [Rack2Cloud](https://www.rack2cloud.com)*
+Architectural frameworks maintained by [Rack2Cloud](https://www.rack2cloud.com)*
