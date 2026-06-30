@@ -3,7 +3,7 @@
 
 ![Status](https://img.shields.io/badge/status-failure--analysis-blue)
 
-> **Architecture Principle:** AI systems fail in coordination, not compute. GPUs rarely fail. The storage and network feeding them fail constantly. 
+> **Architecture Principle:** AI systems fail in coordination, not compute. GPUs rarely fail. The storage and network feeding them fail constantly.
 
 ---
 
